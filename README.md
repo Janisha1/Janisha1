@@ -3,15 +3,15 @@
 ## Table of contents
 
 - [About me](#about-me)
-  - [Links](#links)
 - [Skills](#skills)
   - [Languages](#languages)
   - [Front-end Development](#front-end-development)
   - [Databases](#databases)
   - [Design Tools](#design-tools)
-  - [Project Management](#project-managment)
+  - [Project Management](#project-management)
   - [Operating Systems](#operating-systems)
-- [Acknowledgments](#acknowledgments)
+- [Links](#links)
+- [Acknowledgements](#acknowledgements)
 
 ## About me  
 
