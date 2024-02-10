@@ -1,5 +1,18 @@
 # 👋 Hello, I’m Janisha  
 
+## Table of contents
+
+- [About me](#about-me)
+  - [Links](#links)
+- [Skills](#skills)
+  - [Languages](#languages)
+  - [Front-end Development](#front-end-development)
+  - [Databases](#databases)
+  - [Design Tools](#design-tools)
+  - [Project Management](#project-managment)
+  - [Operating Systems](#operating-systems)
+- [Acknowledgments](#acknowledgments)
+
 ## About me  
 
 I am a software analyst / programmer, whose interest in computers began as a child when my Uncle bought a BBC Micro Computer and I wrote my first program.
@@ -48,12 +61,15 @@ I also enjoy 🎮video and board games, 🧩jigsaws and puzzles like sudoku and 
 * DOS
 
 <!--- Links Section --->
-<!--- Styling : <Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color> 
-                GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white
+<!--- Styling : [![Badge Name](img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color> ](Your URL)
 --->
 ## 🔗Links  
 
-![Linked In](https://www.linkedin.com/in/janisha-patel-2478094/)
+[![Linked In](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/janisha-patel-2478094/)  
+
+## Acknowledgements
+[This ReadMe section was inspired by this blog by Tapajyoti Bose](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
+
 
 
 <!---
