@@ -4,13 +4,8 @@
 
 - [About me](#about-me)
 - [Skills](#skills)
-  - [Languages](#languages)
-  - [Front-end Development](#front-end-development)
-  - [Databases](#databases)
-  - [Design Tools](#design-tools)
-  - [Project Management](#project-management)
-  - [Operating Systems](#operating-systems)
 - [Links](#links)
+- [Github File Names Key](#github-file-names-key)
 - [Acknowledgements](#acknowledgements)
 
 ## About me  
@@ -67,7 +62,13 @@ I also enjoy 🎮video and board games, 🧩jigsaws and puzzles like sudoku and 
 
 [![Linked In](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/janisha-patel-2478094/)  
 
-## Acknowledgements
+## 🔑Github File Names Key  
+In order to help identify projects, I have applied various prefixes (one or combinations) to my github projects.  More information available in the descriptions for each project:
+* JP  - Janisha Patel     : Projects that I have worked on myself.
+* TS  - Techswitch        : Techswitch exercises, either solo, pair or group projects.
+* FEM - Front End Mentor  : Challenges from their website.
+
+## 👏🏽Acknowledgements
 [This ReadMe section was inspired by this blog by Tapajyoti Bose](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
 
 
